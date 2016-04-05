@@ -14,7 +14,7 @@ Docker Compose file for https://hub.docker.com/r/nemoalex/aria2/
   ```
 4. Edit `docker-compose-aria2/docker-compose.yml` and `docker-compose-aria2/etc/aria2.conf`
 
-Notice: We strongly recommend setting a rpc-secret key in aria2.conf
+> Note: We strongly recommend setting a rpc-secret key in aria2.conf
 
 5. Run aria2
 
