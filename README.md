@@ -1,5 +1,5 @@
 # docker-compose-aria2
-Docker Compose file for https://hub.docker.com/r/nemoalex/aria2/
+Docker Compose file for https://hub.docker.com/r/nemoalex/docker-aria2/
 
 ## How to use
 
